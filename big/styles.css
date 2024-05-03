@@ -1,0 +1,13 @@
+h1 {
+  color: blue;
+  font-family: Arial;
+}
+
+table {
+  border: 1px solid black;
+  background-color: lightgray;
+}
+
+td {
+  background-color: lightblue;
+}
